@@ -13,5 +13,5 @@
 | [Python Web Basics](https://softuni.bg/trainings/3355/python-web-basics-may-2021) | [Link](https://softuni.bg/certificates/details/110808/3214978c) |
 | [Python Web Framework](https://softuni.bg/trainings/3356/python-web-framework-july-2021) | [Link](https://softuni.bg/Certificates/Details/111878/e8015e7e) |
 | [C++ Basics](https://softuni.bg/trainings/3273/programming-basics-with-cpp-january-2021) | [Link](https://softuni.bg/certificates/details/98635/e22434e2) |
-| [C++ Fundamentals](https://softuni.bg/trainings/3257/cpp-fundamentals-march-2021) | [Link](https://softuni.bg/trainings/3257/cpp-fundamentals-march-2021) |
+| [C++ Fundamentals](https://softuni.bg/trainings/3257/cpp-fundamentals-march-2021) | [Link](https://softuni.bg/certificates/details/106230/b88214b0) |
 | [Fundamentals in Mathematics](https://softuni.bg/trainings/3416/fundamentals-in-mathematics-may-2021) | [Link](https://softuni.bg/certificates/details/107583/9047bb09) |
