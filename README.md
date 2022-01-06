@@ -16,3 +16,4 @@
 | [C++ Fundamentals](https://softuni.bg/trainings/3257/cpp-fundamentals-march-2021) | [Link](https://softuni.bg/certificates/details/106230/b88214b0) |
 | [Fundamentals in Mathematics](https://softuni.bg/trainings/3416/fundamentals-in-mathematics-may-2021) | [Link](https://softuni.bg/certificates/details/107583/9047bb09) |
 | [Javascript Advanced](https://softuni.bg/trainings/3487/js-advanced-september-2021/internal) | [Link](https://softuni.bg/certificates/details/114874/f512d455) |
+| [Javascript Application](https://softuni.bg/trainings/3488/js-applications-october-2021) | [Link](https://softuni.bg/certificates/details/120984/6c85f6a3) |
